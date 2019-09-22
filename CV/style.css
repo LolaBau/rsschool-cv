@@ -1,0 +1,61 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 16px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+table {
+border-collapse: collapse;
+margin: 20px;
+}
+.name  {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+table.summary {width: 100%;
+}
+td {
+	padding: 10px;
+}
+.summary tr{
+vertical-align: top;
+}
+
+.left {
+	background-color: #D8BFD8;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+.right {
+	background-color: #E6E6FA;
+}
+	
+.atribut {
+	font-weight: bold;
+	
+}
+.personal-information tr {
+	background: #D8BFD8;
+	margin-right: 200px;
+	weight: 120%;
+}
+.personal-information tr:nth-child(2n) {
+	background: #E6E6FA;
+	}
+
+tr {
+	border-bottom: 1px solid white;
+}
+ul {
+	margin: 0;
+}
+.one {
+    float: left; 
+    margin: 0 0 0 5%;
+	}
+
+ 
+    
